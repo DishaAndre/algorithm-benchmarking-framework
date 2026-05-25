@@ -18,7 +18,7 @@ This project is designed to bridge the gap between theoretical algorithm analysi
 ## How to Run
 
 # Step 1: Clone repository
-git clone https://github.com/your-username/algorithm-benchmarking-framework.git
+git clone https://github.com/DishaAndre/algorithm-benchmarking-framework.git
 
 # Step 2: Navigate to project folder
 cd algorithm-benchmarking-framework
