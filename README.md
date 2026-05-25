@@ -14,3 +14,14 @@ This framework provides a structured environment to:
 ## Objective
 
 This project is designed to bridge the gap between theoretical algorithm analysis (Design and Analysis of Algorithms - DAA) and real-world performance behavior.
+
+## How to Run
+
+# Step 1: Clone repository
+git clone https://github.com/your-username/algorithm-benchmarking-framework.git
+
+# Step 2: Navigate to project folder
+cd algorithm-benchmarking-framework
+
+# Step 3: Run project
+python main.py
